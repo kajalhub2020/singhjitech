@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <path d="M8 0L12.4 57.6L32 64L51.6 57.6L56 0H8Z" fill="#1572B6"/>
+  <path d="M32 5.6V58.8L47.6 53.6L51.2 5.6H32Z" fill="#33A9DC"/>
+  <path d="M44 18.4H32V26.4H42.8L42 34.4H32V42.4H41.2L40 52L32 54.4V62.4L47.6 57.6L51.2 18.4H44Z" fill="white"/>
+  <path d="M32 18.4H20V26.4H31.2L32 18.4ZM30.8 34.4H22L22.8 42.4H32V34.4H30.8ZM32 54.4L24 52L23.2 44H15.2L16.8 57.6L32 62.4V54.4Z" fill="#EBEBEB"/>
+</svg>
