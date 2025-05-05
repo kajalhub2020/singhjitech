@@ -389,7 +389,7 @@
 	padding: 22px 0;
 	.stricked-menu {
 		padding: 10px 0;
-		background-color: var(--bs-white);
+		background-color: #020842;
 		box-shadow: 0 4px 23px 0 rgba(174, 191, 210, 0.3);
 	}
 	.container {
@@ -447,13 +447,14 @@
 					}
 					&:nth-child(2) {
 						display: block;
+    						width: 73px;
 					}
 				}
 			}
 		}
 		.main_menu_list > li {
 			>a {
-				color: var(--bs-dark);
+				color: #ffffff;
 			}
 			&:hover,
 			&.active {
