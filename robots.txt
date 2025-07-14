@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://singhji.tech/sitemap.xml
+Sitemap: https://singhjitech.com/sitemap.xml
